@@ -180,3 +180,202 @@ img{
     padding-bottom: 113px;
 }
 /* client part end */
+
+/* portfolio start */
+#portfoliopart{
+    padding-bottom: 133px;
+}
+.portfoltext h4{
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #5E3BEE;
+}
+.portfoltext h3{
+    font-family: "Poppins", sans-serif;
+    font-size: 44px;
+    font-weight: 600;
+    color: #000;
+    padding-top: 16px;
+}
+.portfoltext2 p{
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: rgba(18, 18, 18, 0.705);
+    padding-top: 10px;
+    line-height: 32px;
+    width: 529px;
+}
+.ccard{
+    border: none !important;
+    border-radius: 25px;
+    box-shadow: 0px 20px 60px 0px rgba(0, 0, 0, 0.15);
+
+}
+.card-body h5{
+    padding-top: 33px;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    color:black;
+    padding-left: 45px;
+}
+.card-body p{
+    padding-top: 20px;
+    padding-bottom: 46px;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: rgba(18, 18, 18, 0.705);
+    padding-left: 45px;
+}
+/* portfolio end */
+
+/* testimony start*/
+#testimonypart{
+    padding: 100px 0;
+    background: #F9F9FC;
+}
+.testimonyitem{
+    background: white;
+    padding: 50px;
+    filter: drop-shadow(27px 37px 80px rgba(0, 0, 0, 0.1));
+    border-radius: 25px;
+}
+.testimonyitemtxt p{
+    padding: 32px 0;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: rgba(18, 18, 18, 0.705);
+    line-height: 26px;
+}
+.avatartitle{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.avtitleflex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.avtitle{
+    margin-right: 280px;
+}
+.avtitle h4{
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+}
+.avtitle p{
+    padding-top: 20px;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: rgba(18, 18, 18, 0.705);
+}
+/* testimony end */
+
+/* CTA part start */
+#ctapart{
+    padding:130px 0;
+}
+.image-wrapper{
+    position: relative;
+    width: 100%;
+    
+}
+.image {
+  display: block;
+}
+
+.overlay-text {
+  position: absolute;
+  top: 50%;
+  left: 95%;
+  
+  transform: translate(-50%, -50%);
+  text-align: center;
+  
+  
+}
+.overlay-text h4{
+    width: 606px;
+    line-height: 72px;
+    font-family: "Poppins", sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+    color: black;
+
+}
+
+.overlay-btn{
+    padding-top: 37px;
+}
+/* CTA Part end */
+
+/* footer part start */
+#footerpart{
+    background: #333333;
+    width: 1335px;
+    margin: 0 auto;
+    border-radius: 25px 25px 0 0;
+}
+.footertxt{
+    padding: 110px 0;
+    padding-left: 63px;
+}
+.footertxt p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+    line-height: 32px;
+    width: 374px;
+    padding-top: 20px;
+}
+.footeritem{
+    padding: 110px 0;
+}
+.footeritem span{
+    padding-left: 10px;
+}
+.footerinq a{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+}
+.footercntact{
+    padding-top: 30px;
+    color: #fff;
+}
+
+.footerlinks{
+    display: flex;
+    gap: 25px;
+    padding-top: 30px;
+    
+}
+.line{
+    background: #fff;
+    padding: 0.1px 0;
+}
+.footermenu{
+    display: inline-block;
+    padding: 50px 0;
+}
+.footermenu a{
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+}
+.footerendtxt h5{
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 16px;
+    font-weight: 400;
+     padding: 50px 0;
+}
+
+/* footer part end */
